@@ -13,7 +13,7 @@
       "ControlIp": "remote",
       "ControlPortLocal": 14540,
       "ControlPortRemote": 14580,
-      "LocalHostIp": "172.23.240.1",
+      "LocalHostIp": "172.25.128.1",
       "Sensors":{
         "Barometer":{
           "SensorType": 1,
